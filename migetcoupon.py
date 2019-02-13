@@ -21,7 +21,7 @@ def keepclick():
         
 
 def main():
-    login('帳號','密碼')
+    login('你的帳號','你的帳號')
     keepclick()
     
 
